@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "1dfe5f62682f4b9c35ecec33499b2b2e"
+build_time: [1556640121, 631709000]
+inputs:
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Sprites/GameScene.swift": [1556640070, 827770096]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Core/Game.swift": [1556555123, 25576364]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Sprites/ArrowsSprite.swift": [1556566046, 461540441]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/iOS/GameViewController.swift": [1556541667, 733748896]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Sprites/GameOverScene.swift": [1556372088, 390255669]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Sprites/GridSprite.swift": [1556381485, 338391969]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Sprites/GameSprites.swift": [1556566515, 426195084]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/Sprites/ButtonSprite.swift": [1556542573, 578754146]
+  "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse/iOS/AppDelegate.swift": [1555706728, 957418519]

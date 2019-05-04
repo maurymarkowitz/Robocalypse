@@ -1,0 +1,483 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Game"
+provides-nominal:
+- "15Robocalypse_ios4GameC"
+- "15Robocalypse_ios4GameC8LocationV"
+- "15Robocalypse_ios4GameC5TypesO"
+- "15Robocalypse_ios4GameC4MoveO"
+- "15Robocalypse_ios4GameC6ObjectC"
+- "15Robocalypse_ios4GameC6PlayerC"
+- "15Robocalypse_ios4GameC5RobotC"
+- "15Robocalypse_ios4GameC4TankC"
+- "15Robocalypse_ios4GameC4PileC"
+- "15Robocalypse_ios4GameC5FenceC"
+- "15Robocalypse_ios4GameC7OptionsV"
+- "15Robocalypse_ios4GameC5StateV"
+provides-member:
+- ["15Robocalypse_ios4GameC", ""]
+- ["15Robocalypse_ios4GameC8LocationV", ""]
+- ["15Robocalypse_ios4GameC5TypesO", ""]
+- ["15Robocalypse_ios4GameC4MoveO", ""]
+- ["15Robocalypse_ios4GameC6ObjectC", ""]
+- ["15Robocalypse_ios4GameC6PlayerC", ""]
+- ["15Robocalypse_ios4GameC5RobotC", ""]
+- ["15Robocalypse_ios4GameC4TankC", ""]
+- ["15Robocalypse_ios4GameC4PileC", ""]
+- ["15Robocalypse_ios4GameC5FenceC", ""]
+- ["15Robocalypse_ios4GameC7OptionsV", ""]
+- ["15Robocalypse_ios4GameC5StateV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "-="
+- !private "..."
+- !private "..<"
+- !private "<"
+- !private "<="
+- "=="
+- !private ">"
+- !private ">="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "Game"
+- "Int"
+- !private "Set"
+- "String"
+- "TernaryPrecedence"
+- !private "_findStringSwitchCase"
+- !private "||"
+- !private "~="
+depends-member:
+- !private ["s18AdditiveArithmeticP", "random"]
+- !private ["Sa", "append"]
+- !private ["Sa", "init"]
+- !private ["SK", "append"]
+- !private ["SK", "init"]
+- !private ["Sz", "random"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "random"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["Sl", "append"]
+- !private ["Sl", "init"]
+- !private ["Sl", "remove"]
+- !private ["SL", "random"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "random"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "random"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "append"]
+- !private ["Se", "init"]
+- !private ["Se", "random"]
+- !private ["Se", "remove"]
+- !private ["SE", "append"]
+- !private ["SE", "init"]
+- !private ["SE", "random"]
+- !private ["SE", "remove"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "append"]
+- ["SQ", "dontmove"]
+- ["SQ", "down"]
+- ["SQ", "downleft"]
+- ["SQ", "downright"]
+- ["SQ", "empty"]
+- !private ["SQ", "fence"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "laststand"]
+- ["SQ", "left"]
+- !private ["SQ", "pile"]
+- !private ["SQ", "player"]
+- !private ["SQ", "random"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "remove"]
+- ["SQ", "right"]
+- !private ["SQ", "robot"]
+- ["SQ", "screwdriver"]
+- !private ["SQ", "tank"]
+- ["SQ", "teleport"]
+- ["SQ", "up"]
+- ["SQ", "upleft"]
+- ["SQ", "upright"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s27ExpressibleByIntegerLiteralP", "random"]
+- ["15Robocalypse_ios4GameC5FenceC", "init"]
+- !private ["15Robocalypse_ios4GameC5FenceC", "type"]
+- !private ["s17FixedWidthIntegerP", "random"]
+- !private ["15Robocalypse_ios4GameC", "Array"]
+- ["15Robocalypse_ios4GameC", "Bool"]
+- ["15Robocalypse_ios4GameC", "Fence"]
+- ["15Robocalypse_ios4GameC", "Int"]
+- ["15Robocalypse_ios4GameC", "Location"]
+- ["15Robocalypse_ios4GameC", "Move"]
+- ["15Robocalypse_ios4GameC", "Object"]
+- ["15Robocalypse_ios4GameC", "Options"]
+- ["15Robocalypse_ios4GameC", "Pile"]
+- ["15Robocalypse_ios4GameC", "Player"]
+- ["15Robocalypse_ios4GameC", "Robot"]
+- !private ["15Robocalypse_ios4GameC", "Set"]
+- ["15Robocalypse_ios4GameC", "State"]
+- ["15Robocalypse_ios4GameC", "String"]
+- ["15Robocalypse_ios4GameC", "Tank"]
+- ["15Robocalypse_ios4GameC", "Types"]
+- !private ["15Robocalypse_ios4GameC", "_findStringSwitchCase"]
+- ["15Robocalypse_ios4GameC", "autoTeleport"]
+- ["15Robocalypse_ios4GameC", "cols"]
+- ["15Robocalypse_ios4GameC", "createFence"]
+- ["15Robocalypse_ios4GameC", "createMap"]
+- ["15Robocalypse_ios4GameC", "createPiles"]
+- ["15Robocalypse_ios4GameC", "createPlayer"]
+- ["15Robocalypse_ios4GameC", "createRobots"]
+- ["15Robocalypse_ios4GameC", "createTank"]
+- ["15Robocalypse_ios4GameC", "deinit"]
+- ["15Robocalypse_ios4GameC", "enemies"]
+- ["15Robocalypse_ios4GameC", "hasFence"]
+- ["15Robocalypse_ios4GameC", "hasScrewdriver"]
+- ["15Robocalypse_ios4GameC", "hasTank"]
+- ["15Robocalypse_ios4GameC", "hasTeleport"]
+- ["15Robocalypse_ios4GameC", "hasWon"]
+- ["15Robocalypse_ios4GameC", "init"]
+- ["15Robocalypse_ios4GameC", "isPaused"]
+- ["15Robocalypse_ios4GameC", "lastStand"]
+- ["15Robocalypse_ios4GameC", "level"]
+- ["15Robocalypse_ios4GameC", "levelPiles"]
+- ["15Robocalypse_ios4GameC", "levelRobots"]
+- ["15Robocalypse_ios4GameC", "levelScrewdrivers"]
+- ["15Robocalypse_ios4GameC", "levelTeleports"]
+- ["15Robocalypse_ios4GameC", "moveEnemies"]
+- ["15Robocalypse_ios4GameC", "movePlayer"]
+- ["15Robocalypse_ios4GameC", "movePoints"]
+- ["15Robocalypse_ios4GameC", "piles"]
+- ["15Robocalypse_ios4GameC", "player"]
+- ["15Robocalypse_ios4GameC", "randomLocation"]
+- ["15Robocalypse_ios4GameC", "realtime"]
+- ["15Robocalypse_ios4GameC", "robotPoints"]
+- ["15Robocalypse_ios4GameC", "robotsTeleport"]
+- ["15Robocalypse_ios4GameC", "rows"]
+- ["15Robocalypse_ios4GameC", "runGame"]
+- ["15Robocalypse_ios4GameC", "safeMoves"]
+- ["15Robocalypse_ios4GameC", "safeTeleport"]
+- ["15Robocalypse_ios4GameC", "score"]
+- ["15Robocalypse_ios4GameC", "screwdrivers"]
+- ["15Robocalypse_ios4GameC", "startingPiles"]
+- ["15Robocalypse_ios4GameC", "startingRobots"]
+- ["15Robocalypse_ios4GameC", "startingScrewdrivers"]
+- ["15Robocalypse_ios4GameC", "startingTeleports"]
+- ["15Robocalypse_ios4GameC", "teleports"]
+- ["15Robocalypse_ios4GameC", "timeOfLastMove"]
+- ["15Robocalypse_ios4GameC", "timeOfStart"]
+- ["15Robocalypse_ios4GameC", "timePerMove"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "append"]
+- ["SH", "dontmove"]
+- ["SH", "down"]
+- ["SH", "downleft"]
+- ["SH", "downright"]
+- ["SH", "empty"]
+- !private ["SH", "fence"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "laststand"]
+- ["SH", "left"]
+- !private ["SH", "pile"]
+- !private ["SH", "player"]
+- !private ["SH", "random"]
+- ["SH", "rawValue"]
+- !private ["SH", "remove"]
+- ["SH", "right"]
+- !private ["SH", "robot"]
+- ["SH", "screwdriver"]
+- !private ["SH", "tank"]
+- ["SH", "teleport"]
+- ["SH", "up"]
+- ["SH", "upleft"]
+- ["SH", "upright"]
+- !private ["Si", "random"]
+- ["15Robocalypse_ios4GameC8LocationV", "Int"]
+- ["15Robocalypse_ios4GameC8LocationV", "init"]
+- ["15Robocalypse_ios4GameC8LocationV", "x"]
+- ["15Robocalypse_ios4GameC8LocationV", "y"]
+- !private ["s25LosslessStringConvertibleP", "random"]
+- !private ["s10MirrorPathP", "random"]
+- ["15Robocalypse_ios4GameC4MoveO", "=="]
+- ["15Robocalypse_ios4GameC4MoveO", "RawValue"]
+- ["15Robocalypse_ios4GameC4MoveO", "_Default_RawValue"]
+- !private ["15Robocalypse_ios4GameC4MoveO", "_findStringSwitchCase"]
+- ["15Robocalypse_ios4GameC4MoveO", "_rawHashValue"]
+- ["15Robocalypse_ios4GameC4MoveO", "deinit"]
+- ["15Robocalypse_ios4GameC4MoveO", "dontmove"]
+- ["15Robocalypse_ios4GameC4MoveO", "down"]
+- ["15Robocalypse_ios4GameC4MoveO", "downleft"]
+- ["15Robocalypse_ios4GameC4MoveO", "downright"]
+- ["15Robocalypse_ios4GameC4MoveO", "hash"]
+- ["15Robocalypse_ios4GameC4MoveO", "hashValue"]
+- ["15Robocalypse_ios4GameC4MoveO", "init"]
+- ["15Robocalypse_ios4GameC4MoveO", "laststand"]
+- ["15Robocalypse_ios4GameC4MoveO", "left"]
+- ["15Robocalypse_ios4GameC4MoveO", "rawValue"]
+- ["15Robocalypse_ios4GameC4MoveO", "right"]
+- ["15Robocalypse_ios4GameC4MoveO", "screwdriver"]
+- ["15Robocalypse_ios4GameC4MoveO", "teleport"]
+- ["15Robocalypse_ios4GameC4MoveO", "up"]
+- ["15Robocalypse_ios4GameC4MoveO", "upleft"]
+- ["15Robocalypse_ios4GameC4MoveO", "upright"]
+- !private ["SM", "append"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["Sj", "random"]
+- ["15Robocalypse_ios4GameC6ObjectC", "Bool"]
+- ["15Robocalypse_ios4GameC6ObjectC", "Int"]
+- ["15Robocalypse_ios4GameC6ObjectC", "Location"]
+- !private ["15Robocalypse_ios4GameC6ObjectC", "Pile"]
+- !private ["15Robocalypse_ios4GameC6ObjectC", "Robot"]
+- ["15Robocalypse_ios4GameC6ObjectC", "Types"]
+- ["15Robocalypse_ios4GameC6ObjectC", ""]
+- ["15Robocalypse_ios4GameC6ObjectC", "deinit"]
+- ["15Robocalypse_ios4GameC6ObjectC", "id"]
+- ["15Robocalypse_ios4GameC6ObjectC", "init"]
+- ["15Robocalypse_ios4GameC6ObjectC", "isDead"]
+- ["15Robocalypse_ios4GameC6ObjectC", "killedBy"]
+- ["15Robocalypse_ios4GameC6ObjectC", "location"]
+- ["15Robocalypse_ios4GameC6ObjectC", "serial"]
+- ["15Robocalypse_ios4GameC6ObjectC", "type"]
+- ["15Robocalypse_ios4GameC7OptionsV", "autoTeleport"]
+- ["15Robocalypse_ios4GameC7OptionsV", "hasFence"]
+- ["15Robocalypse_ios4GameC7OptionsV", "hasScrewdriver"]
+- ["15Robocalypse_ios4GameC7OptionsV", "hasTank"]
+- ["15Robocalypse_ios4GameC7OptionsV", "hasTeleport"]
+- ["15Robocalypse_ios4GameC7OptionsV", "init"]
+- ["15Robocalypse_ios4GameC7OptionsV", "levelPiles"]
+- ["15Robocalypse_ios4GameC7OptionsV", "levelRobots"]
+- ["15Robocalypse_ios4GameC7OptionsV", "levelScrewdrivers"]
+- ["15Robocalypse_ios4GameC7OptionsV", "levelTeleports"]
+- ["15Robocalypse_ios4GameC7OptionsV", "realtime"]
+- ["15Robocalypse_ios4GameC7OptionsV", "robotsTeleport"]
+- ["15Robocalypse_ios4GameC7OptionsV", "safeTeleport"]
+- ["15Robocalypse_ios4GameC7OptionsV", "startingPiles"]
+- ["15Robocalypse_ios4GameC7OptionsV", "startingRobots"]
+- ["15Robocalypse_ios4GameC7OptionsV", "startingScrewdrivers"]
+- ["15Robocalypse_ios4GameC7OptionsV", "startingTeleports"]
+- ["15Robocalypse_ios4GameC7OptionsV", "timePerMove"]
+- ["15Robocalypse_ios4GameC4PileC", "Int"]
+- !private ["15Robocalypse_ios4GameC4PileC", "Pile"]
+- ["15Robocalypse_ios4GameC4PileC", ""]
+- !private ["15Robocalypse_ios4GameC4PileC", "id"]
+- ["15Robocalypse_ios4GameC4PileC", "init"]
+- ["15Robocalypse_ios4GameC4PileC", "serial"]
+- !private ["15Robocalypse_ios4GameC4PileC", "type"]
+- !private ["15Robocalypse_ios4GameC6PlayerC", "id"]
+- ["15Robocalypse_ios4GameC6PlayerC", "init"]
+- !private ["15Robocalypse_ios4GameC6PlayerC", "type"]
+- !private ["Sk", "append"]
+- !private ["Sk", "init"]
+- !private ["Sm", "append"]
+- !private ["Sm", "init"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "dontmove"]
+- ["SY", "down"]
+- ["SY", "downleft"]
+- ["SY", "downright"]
+- ["SY", "empty"]
+- !private ["SY", "fence"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "laststand"]
+- ["SY", "left"]
+- !private ["SY", "pile"]
+- !private ["SY", "player"]
+- ["SY", "rawValue"]
+- ["SY", "right"]
+- !private ["SY", "robot"]
+- ["SY", "screwdriver"]
+- !private ["SY", "tank"]
+- ["SY", "teleport"]
+- ["SY", "up"]
+- ["SY", "upleft"]
+- ["SY", "upright"]
+- ["15Robocalypse_ios4GameC5RobotC", "Int"]
+- !private ["15Robocalypse_ios4GameC5RobotC", "Robot"]
+- !private ["15Robocalypse_ios4GameC5RobotC", "id"]
+- ["15Robocalypse_ios4GameC5RobotC", "init"]
+- ["15Robocalypse_ios4GameC5RobotC", "serial"]
+- !private ["15Robocalypse_ios4GameC5RobotC", "type"]
+- !private ["s10SIMDScalarP", "random"]
+- !private ["ST", "append"]
+- !private ["ST", "init"]
+- !private ["ST", "remove"]
+- !private ["Sh", "remove"]
+- !private ["s10SetAlgebraP", "remove"]
+- !private ["SZ", "random"]
+- !private ["s13SignedNumericP", "random"]
+- ["15Robocalypse_ios4GameC5StateV", "init"]
+- ["15Robocalypse_ios4GameC5StateV", "isDead"]
+- ["15Robocalypse_ios4GameC5StateV", "isPaused"]
+- ["15Robocalypse_ios4GameC5StateV", "lastStand"]
+- ["15Robocalypse_ios4GameC5StateV", "screwdrivers"]
+- ["15Robocalypse_ios4GameC5StateV", "teleports"]
+- ["15Robocalypse_ios4GameC5StateV", "timeOfLastMove"]
+- ["15Robocalypse_ios4GameC5StateV", "timeOfStart"]
+- !private ["Sx", "random"]
+- !private ["15Robocalypse_ios4GameC4TankC", "id"]
+- ["15Robocalypse_ios4GameC4TankC", "init"]
+- !private ["15Robocalypse_ios4GameC4TankC", "type"]
+- ["15Robocalypse_ios4GameC5TypesO", "=="]
+- ["15Robocalypse_ios4GameC5TypesO", "RawValue"]
+- ["15Robocalypse_ios4GameC5TypesO", "_Default_RawValue"]
+- !private ["15Robocalypse_ios4GameC5TypesO", "_findStringSwitchCase"]
+- ["15Robocalypse_ios4GameC5TypesO", "_rawHashValue"]
+- ["15Robocalypse_ios4GameC5TypesO", "deinit"]
+- ["15Robocalypse_ios4GameC5TypesO", "empty"]
+- ["15Robocalypse_ios4GameC5TypesO", "fence"]
+- ["15Robocalypse_ios4GameC5TypesO", "hash"]
+- ["15Robocalypse_ios4GameC5TypesO", "hashValue"]
+- ["15Robocalypse_ios4GameC5TypesO", "init"]
+- ["15Robocalypse_ios4GameC5TypesO", "pile"]
+- ["15Robocalypse_ios4GameC5TypesO", "player"]
+- ["15Robocalypse_ios4GameC5TypesO", "rawValue"]
+- ["15Robocalypse_ios4GameC5TypesO", "robot"]
+- ["15Robocalypse_ios4GameC5TypesO", "tank"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "random"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "random"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "random"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "random"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "15Robocalypse_ios4GameC5FenceC"
+- !private "s17FixedWidthIntegerP"
+- "15Robocalypse_ios4GameC"
+- "SH"
+- !private "Si"
+- "15Robocalypse_ios4GameC8LocationV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "15Robocalypse_ios4GameC4MoveO"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- "15Robocalypse_ios4GameC6ObjectC"
+- "15Robocalypse_ios4GameC7OptionsV"
+- "15Robocalypse_ios4GameC4PileC"
+- "15Robocalypse_ios4GameC6PlayerC"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- "15Robocalypse_ios4GameC5RobotC"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- "15Robocalypse_ios4GameC5StateV"
+- !private "Sx"
+- "15Robocalypse_ios4GameC4TankC"
+- "15Robocalypse_ios4GameC5TypesO"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "576ef8f27630ee5efa0790439ad1ac03"

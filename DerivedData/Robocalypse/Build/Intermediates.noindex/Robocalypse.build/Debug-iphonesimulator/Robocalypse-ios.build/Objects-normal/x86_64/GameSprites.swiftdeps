@@ -1,0 +1,517 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ObjectSprite"
+- "PlayerSprite"
+- "RobotSprite"
+- "TankSprite"
+- "PileSprite"
+- "FenceSprite"
+provides-nominal:
+- "15Robocalypse_ios12ObjectSpriteC"
+- "15Robocalypse_ios12PlayerSpriteC"
+- "15Robocalypse_ios11RobotSpriteC"
+- "15Robocalypse_ios10TankSpriteC"
+- "15Robocalypse_ios10PileSpriteC"
+- "15Robocalypse_ios11FenceSpriteC"
+provides-member:
+- ["15Robocalypse_ios12ObjectSpriteC", ""]
+- ["15Robocalypse_ios12PlayerSpriteC", ""]
+- ["15Robocalypse_ios11RobotSpriteC", ""]
+- ["15Robocalypse_ios10TankSpriteC", ""]
+- ["15Robocalypse_ios10PileSpriteC", ""]
+- ["15Robocalypse_ios11FenceSpriteC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "CGSize"
+- "Double"
+- "FenceSprite"
+- "FloatLiteralType"
+- "Game"
+- "IntegerLiteralType"
+- "NSCoder"
+- "ObjectSprite"
+- "PileSprite"
+- "PlayerSprite"
+- "RobotSprite"
+- !private "SKColor"
+- "SKSpriteNode"
+- !private "SKTexture"
+- "String"
+- !private "StringLiteralType"
+- "TankSprite"
+depends-member:
+- !private ["SK", "init"]
+- ["So6CGSizeV", "init"]
+- ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "SKColor"]
+- !private ["s7CVarArgP", "SKTexture"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "blue"]
+- !private ["s7CVarArgP", "darkGray"]
+- !private ["s7CVarArgP", "gray"]
+- !private ["s7CVarArgP", "green"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "kSpriteName"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "object"]
+- !private ["s7CVarArgP", "yellow"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "SKColor"]
+- !private ["s28CustomDebugStringConvertibleP", "SKTexture"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "blue"]
+- !private ["s28CustomDebugStringConvertibleP", "darkGray"]
+- !private ["s28CustomDebugStringConvertibleP", "gray"]
+- !private ["s28CustomDebugStringConvertibleP", "green"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "kSpriteName"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "object"]
+- !private ["s28CustomDebugStringConvertibleP", "yellow"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "SKColor"]
+- !private ["s23CustomStringConvertibleP", "SKTexture"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "blue"]
+- !private ["s23CustomStringConvertibleP", "darkGray"]
+- !private ["s23CustomStringConvertibleP", "gray"]
+- !private ["s23CustomStringConvertibleP", "green"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kSpriteName"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "object"]
+- !private ["s23CustomStringConvertibleP", "yellow"]
+- ["Se", "init"]
+- ["SE", "init"]
+- ["SQ", "CGSize"]
+- !private ["SQ", "SKColor"]
+- !private ["SQ", "SKTexture"]
+- !private ["SQ", "String"]
+- ["SQ", ""]
+- !private ["SQ", "blue"]
+- !private ["SQ", "darkGray"]
+- !private ["SQ", "gray"]
+- !private ["SQ", "green"]
+- ["SQ", "init"]
+- !private ["SQ", "kSpriteName"]
+- !private ["SQ", "name"]
+- !private ["SQ", "object"]
+- !private ["SQ", "yellow"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["15Robocalypse_ios11FenceSpriteC", "CGSize"]
+- ["15Robocalypse_ios11FenceSpriteC", "NSCoder"]
+- !private ["15Robocalypse_ios11FenceSpriteC", "SKColor"]
+- !private ["15Robocalypse_ios11FenceSpriteC", "SKTexture"]
+- ["15Robocalypse_ios11FenceSpriteC", "String"]
+- ["15Robocalypse_ios11FenceSpriteC", "deinit"]
+- ["15Robocalypse_ios11FenceSpriteC", "init"]
+- ["15Robocalypse_ios11FenceSpriteC", "kSpriteName"]
+- !private ["15Robocalypse_ios11FenceSpriteC", "name"]
+- ["15Robocalypse_ios4GameC", "Object"]
+- ["SH", "CGSize"]
+- !private ["SH", "SKColor"]
+- !private ["SH", "SKTexture"]
+- !private ["SH", "String"]
+- ["SH", ""]
+- !private ["SH", "blue"]
+- !private ["SH", "darkGray"]
+- !private ["SH", "gray"]
+- !private ["SH", "green"]
+- !private ["SH", "init"]
+- !private ["SH", "kSpriteName"]
+- !private ["SH", "name"]
+- !private ["SH", "object"]
+- !private ["SH", "yellow"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "CGSize"]
+- !private ["So8NSCodingP", "SKColor"]
+- !private ["So8NSCodingP", "SKTexture"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "blue"]
+- !private ["So8NSCodingP", "darkGray"]
+- !private ["So8NSCodingP", "gray"]
+- !private ["So8NSCodingP", "green"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "kSpriteName"]
+- !private ["So8NSCodingP", "name"]
+- !private ["So8NSCodingP", "object"]
+- !private ["So8NSCodingP", "yellow"]
+- ["So9NSCopyingP", "CGSize"]
+- !private ["So9NSCopyingP", "SKColor"]
+- !private ["So9NSCopyingP", "SKTexture"]
+- !private ["So9NSCopyingP", "String"]
+- ["So9NSCopyingP", ""]
+- !private ["So9NSCopyingP", "blue"]
+- !private ["So9NSCopyingP", "darkGray"]
+- !private ["So9NSCopyingP", "gray"]
+- !private ["So9NSCopyingP", "green"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "kSpriteName"]
+- !private ["So9NSCopyingP", "name"]
+- !private ["So9NSCopyingP", "object"]
+- !private ["So9NSCopyingP", "yellow"]
+- !private ["So21NSItemProviderReadingP", "blue"]
+- !private ["So21NSItemProviderReadingP", "darkGray"]
+- !private ["So21NSItemProviderReadingP", "gray"]
+- !private ["So21NSItemProviderReadingP", "green"]
+- !private ["So21NSItemProviderReadingP", "yellow"]
+- !private ["So21NSItemProviderWritingP", "blue"]
+- !private ["So21NSItemProviderWritingP", "darkGray"]
+- !private ["So21NSItemProviderWritingP", "gray"]
+- !private ["So21NSItemProviderWritingP", "green"]
+- !private ["So21NSItemProviderWritingP", "yellow"]
+- ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "Game"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "SKColor"]
+- !private ["So8NSObjectC", "SKTexture"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "blue"]
+- !private ["So8NSObjectC", "darkGray"]
+- !private ["So8NSObjectC", "gray"]
+- !private ["So8NSObjectC", "green"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "kSpriteName"]
+- ["So8NSObjectC", "kSpriteSize"]
+- ["So8NSObjectC", "kSpriteSpeed"]
+- !private ["So8NSObjectC", "name"]
+- ["So8NSObjectC", "object"]
+- !private ["So8NSObjectC", "yellow"]
+- ["So8NSObjectP", "CGSize"]
+- !private ["So8NSObjectP", "SKColor"]
+- !private ["So8NSObjectP", "SKTexture"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "blue"]
+- !private ["So8NSObjectP", "darkGray"]
+- !private ["So8NSObjectP", "gray"]
+- !private ["So8NSObjectP", "green"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "kSpriteName"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "object"]
+- !private ["So8NSObjectP", "yellow"]
+- ["So14NSSecureCodingP", "CGSize"]
+- !private ["So14NSSecureCodingP", "SKColor"]
+- !private ["So14NSSecureCodingP", "SKTexture"]
+- !private ["So14NSSecureCodingP", "String"]
+- ["So14NSSecureCodingP", ""]
+- !private ["So14NSSecureCodingP", "blue"]
+- !private ["So14NSSecureCodingP", "darkGray"]
+- !private ["So14NSSecureCodingP", "gray"]
+- !private ["So14NSSecureCodingP", "green"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "kSpriteName"]
+- !private ["So14NSSecureCodingP", "name"]
+- !private ["So14NSSecureCodingP", "object"]
+- !private ["So14NSSecureCodingP", "yellow"]
+- !private ["15Robocalypse_ios4GameC6ObjectC", "id"]
+- ["15Robocalypse_ios12ObjectSpriteC", "CGSize"]
+- ["15Robocalypse_ios12ObjectSpriteC", "Double"]
+- ["15Robocalypse_ios12ObjectSpriteC", "Game"]
+- ["15Robocalypse_ios12ObjectSpriteC", "NSCoder"]
+- !private ["15Robocalypse_ios12ObjectSpriteC", "SKColor"]
+- !private ["15Robocalypse_ios12ObjectSpriteC", "SKTexture"]
+- ["15Robocalypse_ios12ObjectSpriteC", "String"]
+- ["15Robocalypse_ios12ObjectSpriteC", ""]
+- ["15Robocalypse_ios12ObjectSpriteC", "deinit"]
+- ["15Robocalypse_ios12ObjectSpriteC", "init"]
+- ["15Robocalypse_ios12ObjectSpriteC", "kSpriteName"]
+- ["15Robocalypse_ios12ObjectSpriteC", "kSpriteSize"]
+- ["15Robocalypse_ios12ObjectSpriteC", "kSpriteSpeed"]
+- !private ["15Robocalypse_ios12ObjectSpriteC", "name"]
+- ["15Robocalypse_ios12ObjectSpriteC", "object"]
+- ["15Robocalypse_ios10PileSpriteC", "CGSize"]
+- ["15Robocalypse_ios10PileSpriteC", "Double"]
+- ["15Robocalypse_ios10PileSpriteC", "Game"]
+- ["15Robocalypse_ios10PileSpriteC", "NSCoder"]
+- !private ["15Robocalypse_ios10PileSpriteC", "SKColor"]
+- !private ["15Robocalypse_ios10PileSpriteC", "SKTexture"]
+- ["15Robocalypse_ios10PileSpriteC", "String"]
+- ["15Robocalypse_ios10PileSpriteC", "deinit"]
+- ["15Robocalypse_ios10PileSpriteC", "init"]
+- ["15Robocalypse_ios10PileSpriteC", "kSpriteName"]
+- ["15Robocalypse_ios10PileSpriteC", "kSpriteSpeed"]
+- !private ["15Robocalypse_ios10PileSpriteC", "name"]
+- !private ["15Robocalypse_ios10PileSpriteC", "object"]
+- ["15Robocalypse_ios12PlayerSpriteC", "CGSize"]
+- ["15Robocalypse_ios12PlayerSpriteC", "Double"]
+- ["15Robocalypse_ios12PlayerSpriteC", "Game"]
+- ["15Robocalypse_ios12PlayerSpriteC", "NSCoder"]
+- !private ["15Robocalypse_ios12PlayerSpriteC", "SKColor"]
+- !private ["15Robocalypse_ios12PlayerSpriteC", "SKTexture"]
+- ["15Robocalypse_ios12PlayerSpriteC", "String"]
+- ["15Robocalypse_ios12PlayerSpriteC", "deinit"]
+- ["15Robocalypse_ios12PlayerSpriteC", "init"]
+- ["15Robocalypse_ios12PlayerSpriteC", "kSpriteName"]
+- ["15Robocalypse_ios12PlayerSpriteC", "kSpriteSpeed"]
+- !private ["15Robocalypse_ios12PlayerSpriteC", "name"]
+- !private ["15Robocalypse_ios12PlayerSpriteC", "object"]
+- !private ["Sm", "init"]
+- ["15Robocalypse_ios11RobotSpriteC", "CGSize"]
+- ["15Robocalypse_ios11RobotSpriteC", "Game"]
+- ["15Robocalypse_ios11RobotSpriteC", "NSCoder"]
+- !private ["15Robocalypse_ios11RobotSpriteC", "SKColor"]
+- !private ["15Robocalypse_ios11RobotSpriteC", "SKTexture"]
+- ["15Robocalypse_ios11RobotSpriteC", "String"]
+- ["15Robocalypse_ios11RobotSpriteC", "deinit"]
+- ["15Robocalypse_ios11RobotSpriteC", "init"]
+- ["15Robocalypse_ios11RobotSpriteC", "kSpriteName"]
+- !private ["15Robocalypse_ios11RobotSpriteC", "name"]
+- !private ["15Robocalypse_ios11RobotSpriteC", "object"]
+- ["So6SKNodeC", "CGSize"]
+- ["So6SKNodeC", "Double"]
+- ["So6SKNodeC", "Game"]
+- ["So6SKNodeC", "NSCoder"]
+- !private ["So6SKNodeC", "SKColor"]
+- !private ["So6SKNodeC", "SKTexture"]
+- ["So6SKNodeC", "String"]
+- ["So6SKNodeC", "init"]
+- ["So6SKNodeC", "kSpriteName"]
+- ["So6SKNodeC", "kSpriteSize"]
+- ["So6SKNodeC", "kSpriteSpeed"]
+- !private ["So6SKNodeC", "name"]
+- ["So6SKNodeC", "object"]
+- ["So12SKSpriteNodeC", "CGSize"]
+- ["So12SKSpriteNodeC", "Double"]
+- ["So12SKSpriteNodeC", "Game"]
+- ["So12SKSpriteNodeC", "NSCoder"]
+- !private ["So12SKSpriteNodeC", "SKColor"]
+- !private ["So12SKSpriteNodeC", "SKTexture"]
+- ["So12SKSpriteNodeC", "String"]
+- ["So12SKSpriteNodeC", ""]
+- ["So12SKSpriteNodeC", "init"]
+- ["So12SKSpriteNodeC", "kSpriteName"]
+- ["So12SKSpriteNodeC", "kSpriteSize"]
+- ["So12SKSpriteNodeC", "kSpriteSpeed"]
+- !private ["So12SKSpriteNodeC", "name"]
+- ["So12SKSpriteNodeC", "object"]
+- !private ["So9SKTextureC", "init"]
+- ["So10SKWarpableP", "CGSize"]
+- !private ["So10SKWarpableP", "SKColor"]
+- !private ["So10SKWarpableP", "SKTexture"]
+- !private ["So10SKWarpableP", "String"]
+- ["So10SKWarpableP", ""]
+- !private ["So10SKWarpableP", "init"]
+- !private ["So10SKWarpableP", "kSpriteName"]
+- !private ["So10SKWarpableP", "name"]
+- !private ["So10SKWarpableP", "object"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- ["15Robocalypse_ios10TankSpriteC", "CGSize"]
+- ["15Robocalypse_ios10TankSpriteC", "Game"]
+- ["15Robocalypse_ios10TankSpriteC", "NSCoder"]
+- !private ["15Robocalypse_ios10TankSpriteC", "SKColor"]
+- !private ["15Robocalypse_ios10TankSpriteC", "SKTexture"]
+- ["15Robocalypse_ios10TankSpriteC", "String"]
+- ["15Robocalypse_ios10TankSpriteC", "deinit"]
+- ["15Robocalypse_ios10TankSpriteC", "init"]
+- ["15Robocalypse_ios10TankSpriteC", "kSpriteName"]
+- !private ["15Robocalypse_ios10TankSpriteC", "name"]
+- !private ["15Robocalypse_ios10TankSpriteC", "object"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So7UIColorC", "blue"]
+- !private ["So7UIColorC", "darkGray"]
+- !private ["So7UIColorC", "gray"]
+- !private ["So7UIColorC", "green"]
+- !private ["So7UIColorC", "yellow"]
+- ["So18UIFocusEnvironmentP", "CGSize"]
+- !private ["So18UIFocusEnvironmentP", "SKColor"]
+- !private ["So18UIFocusEnvironmentP", "SKTexture"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "kSpriteName"]
+- !private ["So18UIFocusEnvironmentP", "name"]
+- !private ["So18UIFocusEnvironmentP", "object"]
+- ["So11UIFocusItemP", "CGSize"]
+- !private ["So11UIFocusItemP", "SKColor"]
+- !private ["So11UIFocusItemP", "SKTexture"]
+- !private ["So11UIFocusItemP", "String"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "kSpriteName"]
+- !private ["So11UIFocusItemP", "name"]
+- !private ["So11UIFocusItemP", "object"]
+- ["So30UIPasteConfigurationSupportingP", "CGSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "SKColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "SKTexture"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "kSpriteName"]
+- !private ["So30UIPasteConfigurationSupportingP", "name"]
+- !private ["So30UIPasteConfigurationSupportingP", "object"]
+- ["So11UIResponderC", "CGSize"]
+- ["So11UIResponderC", "Double"]
+- ["So11UIResponderC", "Game"]
+- ["So11UIResponderC", "NSCoder"]
+- !private ["So11UIResponderC", "SKColor"]
+- !private ["So11UIResponderC", "SKTexture"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "kSpriteName"]
+- ["So11UIResponderC", "kSpriteSize"]
+- ["So11UIResponderC", "kSpriteSpeed"]
+- !private ["So11UIResponderC", "name"]
+- ["So11UIResponderC", "object"]
+- ["So30UIResponderStandardEditActionsP", "CGSize"]
+- !private ["So30UIResponderStandardEditActionsP", "SKColor"]
+- !private ["So30UIResponderStandardEditActionsP", "SKTexture"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "kSpriteName"]
+- !private ["So30UIResponderStandardEditActionsP", "name"]
+- !private ["So30UIResponderStandardEditActionsP", "object"]
+- ["So23UIUserActivityRestoringP", "CGSize"]
+- !private ["So23UIUserActivityRestoringP", "SKColor"]
+- !private ["So23UIUserActivityRestoringP", "SKTexture"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "kSpriteName"]
+- !private ["So23UIUserActivityRestoringP", "name"]
+- !private ["So23UIUserActivityRestoringP", "object"]
+- ["s30_CustomPlaygroundQuickLookableP", "CGSize"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "SKColor"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "SKTexture"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "String"]
+- ["s30_CustomPlaygroundQuickLookableP", ""]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "kSpriteName"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "name"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "object"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "blue"]
+- !private ["s26_ExpressibleByColorLiteralP", "darkGray"]
+- !private ["s26_ExpressibleByColorLiteralP", "gray"]
+- !private ["s26_ExpressibleByColorLiteralP", "green"]
+- !private ["s26_ExpressibleByColorLiteralP", "yellow"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SKColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SKTexture"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "blue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "darkGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "gray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "green"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kSpriteName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "object"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "yellow"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "SK"
+- "So6CGSizeV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "15Robocalypse_ios11FenceSpriteC"
+- "15Robocalypse_ios4GameC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "15Robocalypse_ios4GameC6ObjectC"
+- "15Robocalypse_ios12ObjectSpriteC"
+- "15Robocalypse_ios10PileSpriteC"
+- "15Robocalypse_ios12PlayerSpriteC"
+- !private "Sm"
+- "15Robocalypse_ios11RobotSpriteC"
+- "So6SKNodeC"
+- "So12SKSpriteNodeC"
+- !private "So9SKTextureC"
+- "So10SKWarpableP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- "15Robocalypse_ios10TankSpriteC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So7UIColorC"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So23UIUserActivityRestoringP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f13eca8fccbb582a845b6df945f3deb5"

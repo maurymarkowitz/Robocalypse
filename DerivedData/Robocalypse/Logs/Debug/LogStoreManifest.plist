@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>057CC54A-2656-4F09-99E5-55A93B294407</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>057CC54A-2656-4F09-99E5-55A93B294407.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578258945.208969</real>
+			<key>timeStoppedRecording</key>
+			<real>578259018.23443604</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>057CC54A-2656-4F09-99E5-55A93B294407</string>
+		</dict>
+		<key>0A1632DC-703D-47BA-B0EE-C767D6DD851B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0A1632DC-703D-47BA-B0EE-C767D6DD851B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257431.54867697</real>
+			<key>timeStoppedRecording</key>
+			<real>578257820.50470805</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0A1632DC-703D-47BA-B0EE-C767D6DD851B</string>
+		</dict>
+		<key>1FAE9FBC-E97C-4A42-A3FB-3DA267D685BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1FAE9FBC-E97C-4A42-A3FB-3DA267D685BA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257174.79114604</real>
+			<key>timeStoppedRecording</key>
+			<real>578257213.73462999</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>1FAE9FBC-E97C-4A42-A3FB-3DA267D685BA</string>
+		</dict>
+		<key>290B598A-565E-4EEB-AFD0-DCF9B7EFCAA7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>290B598A-565E-4EEB-AFD0-DCF9B7EFCAA7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578350135.67560101</real>
+			<key>timeStoppedRecording</key>
+			<real>578350168.16833901</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>290B598A-565E-4EEB-AFD0-DCF9B7EFCAA7</string>
+		</dict>
+		<key>3183637F-4EE6-40DA-80AD-7E5D2892BC58</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3183637F-4EE6-40DA-80AD-7E5D2892BC58.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578332976.92514098</real>
+			<key>timeStoppedRecording</key>
+			<real>578333512.19114006</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>3183637F-4EE6-40DA-80AD-7E5D2892BC58</string>
+		</dict>
+		<key>36C6EF35-DAA2-4D4C-88EA-7E4F4338964C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>36C6EF35-DAA2-4D4C-88EA-7E4F4338964C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257400.26140702</real>
+			<key>timeStoppedRecording</key>
+			<real>578257429.00719094</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>36C6EF35-DAA2-4D4C-88EA-7E4F4338964C</string>
+		</dict>
+		<key>44A6F5DC-6D53-4605-9D18-15723C6716FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>44A6F5DC-6D53-4605-9D18-15723C6716FC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578256975.10166502</real>
+			<key>timeStoppedRecording</key>
+			<real>578257174.98102999</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>44A6F5DC-6D53-4605-9D18-15723C6716FC</string>
+		</dict>
+		<key>49D0787F-3BC5-4322-AF81-F92413872747</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>49D0787F-3BC5-4322-AF81-F92413872747.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578273684.49674499</real>
+			<key>timeStoppedRecording</key>
+			<real>578333509.28979003</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>49D0787F-3BC5-4322-AF81-F92413872747</string>
+		</dict>
+		<key>4DC19663-9042-4A5D-9BC2-FBB9C8E65ACB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4DC19663-9042-4A5D-9BC2-FBB9C8E65ACB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578332931.46998703</real>
+			<key>timeStoppedRecording</key>
+			<real>578333511.679057</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>4DC19663-9042-4A5D-9BC2-FBB9C8E65ACB</string>
+		</dict>
+		<key>56A76513-FB05-45BF-AF17-2D6EB688B04B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>56A76513-FB05-45BF-AF17-2D6EB688B04B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578258009.40610397</real>
+			<key>timeStoppedRecording</key>
+			<real>578258064.26526201</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>56A76513-FB05-45BF-AF17-2D6EB688B04B</string>
+		</dict>
+		<key>5B5000C8-99B0-43DF-881E-5BA7DAC66623</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5B5000C8-99B0-43DF-881E-5BA7DAC66623.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578258443.93462098</real>
+			<key>timeStoppedRecording</key>
+			<real>578258527.10106003</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>5B5000C8-99B0-43DF-881E-5BA7DAC66623</string>
+		</dict>
+		<key>650FC3E7-8D46-4B58-94E2-9AA531F85CEC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>650FC3E7-8D46-4B58-94E2-9AA531F85CEC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257356.95037198</real>
+			<key>timeStoppedRecording</key>
+			<real>578257395.32783401</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>650FC3E7-8D46-4B58-94E2-9AA531F85CEC</string>
+		</dict>
+		<key>7E07A205-1C83-4E29-AD52-5E219C5BA3DB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7E07A205-1C83-4E29-AD52-5E219C5BA3DB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578256927.20843899</real>
+			<key>timeStoppedRecording</key>
+			<real>578256971.91255295</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>7E07A205-1C83-4E29-AD52-5E219C5BA3DB</string>
+		</dict>
+		<key>851247EF-D7EC-4495-99CE-5D282557FCA2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>851247EF-D7EC-4495-99CE-5D282557FCA2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578248164.68447304</real>
+			<key>timeStoppedRecording</key>
+			<real>578248217.67115605</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>851247EF-D7EC-4495-99CE-5D282557FCA2</string>
+		</dict>
+		<key>A871FA63-7556-4925-8B7D-7AC0D29CFA2D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A871FA63-7556-4925-8B7D-7AC0D29CFA2D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257225.00419497</real>
+			<key>timeStoppedRecording</key>
+			<real>578257297.08414495</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A871FA63-7556-4925-8B7D-7AC0D29CFA2D</string>
+		</dict>
+		<key>ABE6A944-81C8-42D6-B8A5-9CF3C78EA0EA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ABE6A944-81C8-42D6-B8A5-9CF3C78EA0EA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578317242.04719603</real>
+			<key>timeStoppedRecording</key>
+			<real>578318961.05377901</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>ABE6A944-81C8-42D6-B8A5-9CF3C78EA0EA</string>
+		</dict>
+		<key>AE1BCC15-5DFA-4DD9-A798-F535EB09BCFA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE1BCC15-5DFA-4DD9-A798-F535EB09BCFA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257905.48654401</real>
+			<key>timeStoppedRecording</key>
+			<real>578257999.84272504</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>AE1BCC15-5DFA-4DD9-A798-F535EB09BCFA</string>
+		</dict>
+		<key>BCE60C60-46CF-4DF8-B564-75F9E03ED5D5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BCE60C60-46CF-4DF8-B564-75F9E03ED5D5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257312.26624894</real>
+			<key>timeStoppedRecording</key>
+			<real>578257354.42697406</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>BCE60C60-46CF-4DF8-B564-75F9E03ED5D5</string>
+		</dict>
+		<key>BE3D2A58-1260-4BC0-84F0-6A52A4E2DEDF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BE3D2A58-1260-4BC0-84F0-6A52A4E2DEDF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578257821.13340795</real>
+			<key>timeStoppedRecording</key>
+			<real>578257902.95069802</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>BE3D2A58-1260-4BC0-84F0-6A52A4E2DEDF</string>
+		</dict>
+		<key>CD24EA94-FBB2-4E83-9274-6D2C61D8B353</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CD24EA94-FBB2-4E83-9274-6D2C61D8B353.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578350110.86834705</real>
+			<key>timeStoppedRecording</key>
+			<real>578350135.86367095</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>CD24EA94-FBB2-4E83-9274-6D2C61D8B353</string>
+		</dict>
+		<key>E7D33441-E1EA-4534-B68A-581DE1151869</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E7D33441-E1EA-4534-B68A-581DE1151869.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578255361.38871002</real>
+			<key>timeStoppedRecording</key>
+			<real>578255959.89254904</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E7D33441-E1EA-4534-B68A-581DE1151869</string>
+		</dict>
+		<key>E87109AE-6D79-418F-B7AF-185B37D0D2E0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E87109AE-6D79-418F-B7AF-185B37D0D2E0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578258380.71465302</real>
+			<key>timeStoppedRecording</key>
+			<real>578258444.10583603</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E87109AE-6D79-418F-B7AF-185B37D0D2E0</string>
+		</dict>
+		<key>F236E4E1-2E10-40A8-BBB4-A6F6FC6F10FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F236E4E1-2E10-40A8-BBB4-A6F6FC6F10FE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Robocalypse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Robocalypse-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>timeStartedRecording</key>
+			<real>578259370.59618902</real>
+			<key>timeStoppedRecording</key>
+			<real>578259629.45759201</real>
+			<key>title</key>
+			<string>Debug Robocalypse-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>F236E4E1-2E10-40A8-BBB4-A6F6FC6F10FE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
