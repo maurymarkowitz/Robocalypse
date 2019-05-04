@@ -83,7 +83,6 @@
 		5565060F226CA64C007126D8 /* ArrowsSprite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowsSprite.swift; sourceTree = "<group>"; };
 		55650617226E03A7007126D8 /* Arrows.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Arrows.xcassets; sourceTree = "<group>"; };
 		55650658226E17C7007126D8 /* Robocalypse-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Robocalypse-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		55650659226E17C8007126D8 /* Robocalypse copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Robocalypse copy-Info.plist"; path = "/Volumes/Bigger/Users/maury/Desktop/Robocalypse/Robocalypse copy-Info.plist"; sourceTree = "<absolute>"; };
 		5565065E226E1897007126D8 /* Robocalypse-mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Robocalypse-mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55650660226E1897007126D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55650668226E1897007126D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -212,7 +211,6 @@
 			children = (
 				CDF079CC1975428800FFAB46 /* Robocalypse */,
 				CDF079CB1975428800FFAB46 /* Products */,
-				55650659226E17C8007126D8 /* Robocalypse copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
